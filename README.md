@@ -1,6 +1,6 @@
 # VirtualHome for SVLTA Benchmark
 
-**Note:** If you want to use this repo to generate your own Visual-Language Temporal Alignment Benchmark, you need to pay attention to these functions and parameters in `./simulation/unity_simulator/comm_unity.py`.
+**Note:** If you want to use this repo to generate your own Synthetic Visual-Language Temporal Alignment Benchmark, you need to pay attention to these functions and parameters in `./simulation/unity_simulator/comm_unity.py`.
 
 - `function`: render_script
 
